@@ -14,7 +14,7 @@
 
 <blockquote>
 try {
-<br>ExtractFile ef = new ExtractFile(context app, <archive file>, <output directory>);
+<br>ExtractFile ef = new ExtractFile(context app, archive file, output directory);
 <br>ef.exec();
 <br>}  catch (IOException e) {
 <br>Log.e("Extract error", e.getMessage());
