@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Extract-archive-android-lib</string>
+    <string name="file_not_found">File not found !</string>
+    <string name="isnt_directory">File isn\'t a directory !</string>
+    <string name="is_directory">File is a directory !</string>
+    <string name="loading_file_complete">Loading file complete !</string>
+    <string name="loading_file_error">Error on loading file, please use a compatible format !</string>
+
+</resources>
