@@ -7,13 +7,12 @@
 <h3>Exemple</h3>
 
 <code>
-try {
-	ExtractFile ef = new ExtractFile(Context app, <fichier archive>, <Dossier d extraction>);
-	ef.exec();
-} catch (IOException e) {
-
-	Log.e("Extract error", e.getMessage());
-}
+	try {
+		ExtractFile ef = new ExtractFile(Context app, <fichier archive>, <Dossier d extraction>);
+		ef.exec();
+	} catch (IOException e) {
+		Log.e("Extract error", e.getMessage());
+	}
 </code>
 
 <h2>ENGLISH</h2>
@@ -25,12 +24,12 @@ try {
 <h3>Sample</h3>
 
 <code>
-try {
-	ExtractFile ef = new ExtractFile(context app, <archive file>, <output directory>);
-	ef.exec();
-} catch (IOException e) {
-	Log.e("Extract error", e.getMessage());
-}
+	try {
+		ExtractFile ef = new ExtractFile(context app, <archive file>, <output directory>);
+		ef.exec();
+	} catch (IOException e) {
+		Log.e("Extract error", e.getMessage());
+	}
 </code>
 
 <h2>Links / References</h2>
