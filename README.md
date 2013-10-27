@@ -4,33 +4,22 @@
 
 <p>J'utilise les projets <b>j7zip</b> et <b>unrar</b> dans le code de ma libraire.</p>
 
-<h3>Exemple</h3>
-
-<code>
-	try {
-		ExtractFile ef = new ExtractFile(Context app, <fichier archive>, <Dossier d extraction>);
-		ef.exec();
-	} catch (IOException e) {
-		Log.e("Extract error", e.getMessage());
-	}
-</code>
-
 <h2>ENGLISH</h2>
 
 <p>Needing a lib for extract archive file  (<b>ZIP</b> / <b>RAR</b> / <b>7z</b>)for a personal project on the <b>Android 2.2</b> platform, I created and share my personnal library. My library is share in the <b>LGPL 2.1</b></p>
 
 <p>I'm using the j7zip project and the unrar project for coding my library.</p>
 
-<h3>Sample</h3>
+<h2>Sample / Exemple</h2>
 
-<code>
-	try {
-		ExtractFile ef = new ExtractFile(context app, <archive file>, <output directory>);
-		ef.exec();
-	} catch (IOException e) {
-		Log.e("Extract error", e.getMessage());
-	}
-</code>
+<blockquote>
+try {
+<br>ExtractFile ef = new ExtractFile(context app, <archive file>, <output directory>);
+<br>ef.exec();
+<br>}  catch (IOException e) {
+<br>Log.e("Extract error", e.getMessage());
+<br>}
+</blockquote>
 
 <h2>Links / References</h2>
 <ul>
