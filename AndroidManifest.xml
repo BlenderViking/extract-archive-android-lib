@@ -6,7 +6,17 @@
     <uses-sdk
         android:minSdkVersion="8"
         android:targetSdkVersion="8" />
-
+    
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES"></uses-permission>
+    <uses-permission android:name="android.permission.WRITE_OWNER_DATA"></uses-permission>
+    <uses-permission android:name="android.permission.CLEAR_APP_CACHE"></uses-permission>
+    <uses-permission android:name="android.permission.CLEAR_APP_USER_DATA"></uses-permission>
+    <uses-permission android:name="android.permission.DELETE_CACHE_FILES"></uses-permission>
+    <uses-permission android:name="android.permission.DELETE_PACKAGES"></uses-permission>
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES"></uses-permission>
+    <uses-permission android:name="android.permission.READ_OWNER_DATA"></uses-permission>
+    
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"

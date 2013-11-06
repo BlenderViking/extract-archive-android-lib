@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/34/trunk/jni/CPP/7zip
+END
+IStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/IStream.h
+END
+ICoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/ICoder.h
+END
+MyVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/MyVersion.h
+END
+IPassword.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/IPassword.h
+END
+PropID.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/PropID.h
+END
+IProgress.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/IProgress.h
+END
+Guid.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Guid.txt
+END
+IDecl.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/IDecl.h
+END

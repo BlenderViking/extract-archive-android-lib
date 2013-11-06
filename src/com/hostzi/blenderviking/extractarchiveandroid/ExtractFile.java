@@ -13,11 +13,13 @@ import android.widget.Toast;
 import com.github.junrar.testutil.ExtractArchive;
 import com.hostzi.blenderviking.extract_archive_android.R;
 import com.hostzi.blenderviking.zip.ManipZip;
+import com.snda.Andro7z.Andro7za;
+
 /**
  * Extract file archive into a specific output directory
- *  
+ * 
  * @author Estievenart Romain
- *
+ * 
  */
 public class ExtractFile {
 
@@ -56,11 +58,14 @@ public class ExtractFile {
 	private void ExtractFileInit(Context _ctx, File archive, File outputdir)
 			throws IOException {
 		if (!archive.exists())
-			throw new FileNotFoundException("Archive file not found : " + archive.getCanonicalPath());
+			throw new FileNotFoundException("Archive file not found : "
+					+ archive.getCanonicalPath());
 		if (archive.isDirectory())
-			throw new IOException("Archive file is a directory : " + archive.getCanonicalPath());
+			throw new IOException("Archive file is a directory : "
+					+ archive.getCanonicalPath());
 		if (outputdir.exists() && !outputdir.isDirectory())
-			throw new IOException("The output directory is not a folder : " + outputdir.getCanonicalPath());
+			throw new IOException("The output directory is not a folder : "
+					+ outputdir.getCanonicalPath());
 
 		this.ctx = _ctx;
 		this.archive = archive;
@@ -205,15 +210,66 @@ public class ExtractFile {
 			str[0] = "x";
 			// archive file path
 			str[1] = params[0].getAbsolutePath();
+
 			// outputdir path
 			str[2] = params[1].getAbsolutePath() + File.separator;
 
 			try {
-				SevenZip.J7zip.main(str);
+				// create tmp file
+				if(copie7z(params[0]))
+				{
+				// SevenZip.J7zip.main(str);
+					Andro7za a7z = new Andro7za();
+					a7z.printUsage();
+					
+					File destination = new File("/mnt/sdcard/abcdefghijqlmnopqrstuvwxyz123456789.7z");
+					if(destination.exists())
+						destination.delete();
+							
+		        }
 				return true;
 			} catch (Exception e) {
 				return false;
 			}
+		}
+
+		private boolean copie7z(File source) throws IOException {
+			File dir = new File("/mnt/sdcard/extractarchiveandroid/");
+			if(!dir.exists())
+				dir.mkdir();
+			else if (!dir.isDirectory())
+				return false;
+			
+			File destination = new File("/mnt/sdcard/abcdefghijqlmnopqrstuvwxyz123456789.7z");
+			if(destination.exists())
+				destination.delete();
+			
+			boolean resultat = false;
+
+			java.io.FileInputStream sourceFile = null;
+			java.io.FileOutputStream destinationFile = null;
+			try {
+				destination.createNewFile();
+				sourceFile = new java.io.FileInputStream(source);
+				destinationFile = new java.io.FileOutputStream(destination);
+				byte buffer[] = new byte[512 * 1024];
+				int nbLecture;
+				while ((nbLecture = sourceFile.read(buffer)) != -1) {
+					destinationFile.write(buffer, 0, nbLecture);
+				}
+
+				resultat = true;
+			} catch (java.io.FileNotFoundException f) {
+			} catch (java.io.IOException e) {
+			} finally {
+				try {
+					sourceFile.close();
+				} catch (Exception e) {}
+				try {
+					destinationFile.close();
+				} catch (Exception e) {}
+			}
+			return (resultat);
 		}
 
 		@Override

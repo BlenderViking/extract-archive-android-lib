@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z
+END
+7zHandlerOut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zHandlerOut.cpp
+END
+7zSpecStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zSpecStream.cpp
+END
+7zCompressionMode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zCompressionMode.cpp
+END
+7zIn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zIn.cpp
+END
+7zOut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zOut.cpp
+END
+7zExtract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zExtract.cpp
+END
+7zCompressionMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zCompressionMode.h
+END
+7zSpecStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zSpecStream.h
+END
+7zIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zIn.h
+END
+7zOut.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zOut.h
+END
+7zHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zHandler.cpp
+END
+7zFolderInStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zFolderInStream.cpp
+END
+7zFolderOutStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zFolderOutStream.cpp
+END
+7zHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zHandler.h
+END
+7zUpdate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zUpdate.cpp
+END
+7zFolderInStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zFolderInStream.h
+END
+7zDecode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zDecode.cpp
+END
+7zRegister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zRegister.cpp
+END
+7zFolderOutStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zFolderOutStream.h
+END
+7zUpdate.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zUpdate.h
+END
+7zHeader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zHeader.cpp
+END
+7zDecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zDecode.h
+END
+7zProperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zProperties.cpp
+END
+7zEncode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zEncode.cpp
+END
+7zHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zHeader.h
+END
+7zProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zProperties.h
+END
+7zEncode.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zEncode.h
+END
+7zItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/7z/7zItem.h
+END

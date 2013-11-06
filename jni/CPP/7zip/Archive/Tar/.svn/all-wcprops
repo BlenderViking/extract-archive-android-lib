@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Tar
+END
+TarOut.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Tar/TarOut.h
+END
+TarHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Tar/TarHandler.cpp
+END
+TarHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Tar/TarHeader.h
+END
+TarHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Tar/TarHandler.h
+END
+TarUpdate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Tar/TarUpdate.cpp
+END
+TarItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Tar/TarItem.h
+END
+TarRegister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Tar/TarRegister.cpp
+END
+TarHandlerOut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Tar/TarHandlerOut.cpp
+END
+TarIn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Tar/TarIn.cpp
+END
+TarUpdate.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Tar/TarUpdate.h
+END
+TarOut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Tar/TarOut.cpp
+END
+TarHeader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Tar/TarHeader.cpp
+END
+TarIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Tar/TarIn.h
+END

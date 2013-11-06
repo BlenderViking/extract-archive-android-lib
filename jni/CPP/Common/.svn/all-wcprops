@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/trunk/jni/CPP/Common
+END
+NewHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/jni/CPP/Common/NewHandler.h
+END
+ListFileUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/Common/ListFileUtils.cpp
+END
+MyWindows.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/jni/CPP/Common/MyWindows.cpp
+END
+StdInStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/jni/CPP/Common/StdInStream.h
+END
+StdOutStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/jni/CPP/Common/StdOutStream.h
+END
+CommandLineParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/Common/CommandLineParser.cpp
+END
+UTFConvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/jni/CPP/Common/UTFConvert.h
+END
+CRC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/jni/CPP/Common/CRC.cpp
+END
+C_FileIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/jni/CPP/Common/C_FileIO.cpp
+END
+MyUnknown.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/jni/CPP/Common/MyUnknown.h
+END
+TextConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/jni/CPP/Common/TextConfig.cpp
+END
+MyXml.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/jni/CPP/Common/MyXml.h
+END
+StringConvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/jni/CPP/Common/StringConvert.h
+END
+MyString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/jni/CPP/Common/MyString.cpp
+END
+MyVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/jni/CPP/Common/MyVector.h
+END
+Lang.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/jni/CPP/Common/Lang.cpp
+END
+MyGuidDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/jni/CPP/Common/MyGuidDef.h
+END
+ComTry.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/jni/CPP/Common/ComTry.h
+END
+MyMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/jni/CPP/Common/MyMap.cpp
+END
+IntToString.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/jni/CPP/Common/IntToString.h
+END
+StringToInt.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/jni/CPP/Common/StringToInt.h
+END
+StdInStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/jni/CPP/Common/StdInStream.cpp
+END
+Wildcard.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/jni/CPP/Common/Wildcard.h
+END
+StdOutStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/jni/CPP/Common/StdOutStream.cpp
+END
+UTFConvert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/jni/CPP/Common/UTFConvert.cpp
+END
+ListFileUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/jni/CPP/Common/ListFileUtils.h
+END
+AutoPtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/jni/CPP/Common/AutoPtr.h
+END
+MyWindows.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/jni/CPP/Common/MyWindows.h
+END
+MyXml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/jni/CPP/Common/MyXml.cpp
+END
+StringConvert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/Common/StringConvert.cpp
+END
+MyVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/jni/CPP/Common/MyVector.cpp
+END
+CommandLineParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/Common/CommandLineParser.h
+END
+MyException.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/jni/CPP/Common/MyException.h
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/jni/CPP/Common/Types.h
+END
+Buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/jni/CPP/Common/Buffer.h
+END
+C_FileIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/jni/CPP/Common/C_FileIO.h
+END
+TextConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/jni/CPP/Common/TextConfig.h
+END
+MyString.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/jni/CPP/Common/MyString.h
+END
+DynamicBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/jni/CPP/Common/DynamicBuffer.h
+END
+IntToString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/jni/CPP/Common/IntToString.cpp
+END
+StringToInt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/jni/CPP/Common/StringToInt.cpp
+END
+Defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/jni/CPP/Common/Defs.h
+END
+Lang.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/jni/CPP/Common/Lang.h
+END
+MyInitGuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/jni/CPP/Common/MyInitGuid.h
+END
+MyMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/jni/CPP/Common/MyMap.h
+END
+Wildcard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/jni/CPP/Common/Wildcard.cpp
+END
+MyCom.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/jni/CPP/Common/MyCom.h
+END

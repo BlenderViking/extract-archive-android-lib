@@ -1,6 +1,8 @@
 # built application files
 *.apk
 *.ap_
+*.dll
+*.so
 
 # files for the dex VM
 *.dex
@@ -12,3 +14,4 @@
 # generated files
 bin/
 gen/
+obj/

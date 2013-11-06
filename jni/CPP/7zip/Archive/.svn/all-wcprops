@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive
+END
+MubHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/MubHandler.cpp
+END
+MachoHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/MachoHandler.cpp
+END
+DebHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/DebHandler.cpp
+END
+DeflateProps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/DeflateProps.cpp
+END
+CpioHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/CpioHandler.cpp
+END
+SquashfsHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/SquashfsHandler.cpp
+END
+RpmHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/RpmHandler.cpp
+END
+SwfHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/SwfHandler.cpp
+END
+IArchive.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/IArchive.h
+END
+LzmaHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/LzmaHandler.cpp
+END
+ArchiveExports.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/ArchiveExports.cpp
+END
+ZHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/ZHandler.cpp
+END
+NtfsHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/NtfsHandler.cpp
+END
+FatHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/FatHandler.cpp
+END
+ApmHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/ApmHandler.cpp
+END
+GzHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/GzHandler.cpp
+END
+VhdHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/VhdHandler.cpp
+END
+DllExports2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/DllExports2.cpp
+END
+MslzHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/MslzHandler.cpp
+END
+FlvHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/FlvHandler.cpp
+END
+XarHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/XarHandler.cpp
+END
+SplitHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/SplitHandler.cpp
+END
+Bz2Handler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Bz2Handler.cpp
+END
+LzhHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/LzhHandler.cpp
+END
+DeflateProps.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/DeflateProps.h
+END
+PpmdHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/PpmdHandler.cpp
+END
+XzHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/XzHandler.cpp
+END
+PeHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/PeHandler.cpp
+END
+ElfHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/ElfHandler.cpp
+END
+DmgHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/DmgHandler.cpp
+END
+CramfsHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/CramfsHandler.cpp
+END
+ArjHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/ArjHandler.cpp
+END
+MbrHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/MbrHandler.cpp
+END

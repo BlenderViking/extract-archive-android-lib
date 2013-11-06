@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Cab
+END
+CabHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Cab/CabHandler.h
+END
+CabBlockInStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Cab/CabBlockInStream.h
+END
+CabItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Cab/CabItem.h
+END
+CabRegister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Cab/CabRegister.cpp
+END
+CabIn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Cab/CabIn.cpp
+END
+CabHeader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Cab/CabHeader.cpp
+END
+CabIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Cab/CabIn.h
+END
+CabHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Cab/CabHandler.cpp
+END
+CabBlockInStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Cab/CabBlockInStream.cpp
+END
+CabHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Archive/Cab/CabHeader.h
+END

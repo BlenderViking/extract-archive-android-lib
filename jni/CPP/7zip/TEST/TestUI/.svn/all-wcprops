@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/TEST/TestUI
+END
+makefile.list
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/TEST/TestUI/makefile.list
+END
+makefile.depend
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/TEST/TestUI/makefile.depend
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/TEST/TestUI/makefile
+END
+TestUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/TEST/TestUI/TestUI.cpp
+END

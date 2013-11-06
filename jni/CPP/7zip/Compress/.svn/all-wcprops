@@ -1,0 +1,581 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress
+END
+RarCodecsRegister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/RarCodecsRegister.cpp
+END
+BranchCoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BranchCoder.cpp
+END
+Lzma2Decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Lzma2Decoder.cpp
+END
+BranchMisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BranchMisc.h
+END
+ImplodeDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ImplodeDecoder.cpp
+END
+Rar3Vm.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Rar3Vm.h
+END
+BitlDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BitlDecoder.cpp
+END
+DllExports2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/DllExports2.cpp
+END
+LzhDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/LzhDecoder.cpp
+END
+ShrinkDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ShrinkDecoder.cpp
+END
+BZip2Encoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BZip2Encoder.cpp
+END
+Lzx86Converter.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Lzx86Converter.h
+END
+PpmdZip.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/PpmdZip.h
+END
+ArjDecoder2.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ArjDecoder2.h
+END
+LzmaDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/LzmaDecoder.cpp
+END
+Lzma2Register.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Lzma2Register.cpp
+END
+PpmdDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/PpmdDecoder.h
+END
+Rar2Decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Rar2Decoder.cpp
+END
+Bcj2Coder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Bcj2Coder.cpp
+END
+BitlEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BitlEncoder.h
+END
+ZlibEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ZlibEncoder.cpp
+END
+Rar1Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Rar1Decoder.h
+END
+LzxDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/LzxDecoder.cpp
+END
+BcjRegister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BcjRegister.cpp
+END
+BranchMisc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BranchMisc.cpp
+END
+BZip2Decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BZip2Decoder.cpp
+END
+RangeCoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/RangeCoder.h
+END
+BZip2Crc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BZip2Crc.cpp
+END
+CopyRegister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/CopyRegister.cpp
+END
+BranchCoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BranchCoder.h
+END
+QuantumDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/QuantumDecoder.cpp
+END
+BcjCoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BcjCoder.h
+END
+Lzx.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Lzx.h
+END
+Lzx86Converter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Lzx86Converter.cpp
+END
+Deflate64Register.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Deflate64Register.cpp
+END
+PpmdZip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/PpmdZip.cpp
+END
+ImplodeHuffmanDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ImplodeHuffmanDecoder.cpp
+END
+BitlDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BitlDecoder.h
+END
+Bcj2Register.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Bcj2Register.cpp
+END
+ZlibDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ZlibDecoder.cpp
+END
+ShrinkDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ShrinkDecoder.h
+END
+BZip2Encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BZip2Encoder.h
+END
+Rar1Decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Rar1Decoder.cpp
+END
+CopyCoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/CopyCoder.h
+END
+DllExports.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/DllExports.cpp
+END
+BitmEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BitmEncoder.h
+END
+Rar2Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Rar2Decoder.h
+END
+BZip2Const.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BZip2Const.h
+END
+DeflateEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/DeflateEncoder.cpp
+END
+ZlibEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ZlibEncoder.h
+END
+DeflateRegister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/DeflateRegister.cpp
+END
+LzOutWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/LzOutWindow.h
+END
+BcjCoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BcjCoder.cpp
+END
+BZip2Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BZip2Decoder.h
+END
+BZip2Crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BZip2Crc.h
+END
+QuantumDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/QuantumDecoder.h
+END
+BitmDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BitmDecoder.h
+END
+CopyCoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/CopyCoder.cpp
+END
+ArjDecoder1.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ArjDecoder1.h
+END
+ImplodeHuffmanDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ImplodeHuffmanDecoder.h
+END
+DeflateDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/DeflateDecoder.cpp
+END
+Lzma2Encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Lzma2Encoder.h
+END
+ZlibDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ZlibDecoder.h
+END
+BZip2Register.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BZip2Register.cpp
+END
+DeltaFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/DeltaFilter.cpp
+END
+PpmdEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/PpmdEncoder.cpp
+END
+Rar3Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Rar3Decoder.h
+END
+ZDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ZDecoder.h
+END
+LzOutWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/LzOutWindow.cpp
+END
+PpmdRegister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/PpmdRegister.cpp
+END
+LzmaEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/LzmaEncoder.h
+END
+LzmaRegister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/LzmaRegister.cpp
+END
+DeflateEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/DeflateEncoder.h
+END
+Rar3Vm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Rar3Vm.cpp
+END
+RangeCoderBit.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/RangeCoderBit.h
+END
+HuffmanDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/HuffmanDecoder.h
+END
+Lzma2Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Lzma2Decoder.h
+END
+DeflateConst.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/DeflateConst.h
+END
+ArjDecoder1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ArjDecoder1.cpp
+END
+Mtf8.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Mtf8.h
+END
+ImplodeDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ImplodeDecoder.h
+END
+ArjDecoder2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ArjDecoder2.cpp
+END
+Lzma2Encoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Lzma2Encoder.cpp
+END
+PpmdDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/PpmdDecoder.cpp
+END
+LzhDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/LzhDecoder.h
+END
+Rar3Decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Rar3Decoder.cpp
+END
+LzmaDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/LzmaDecoder.h
+END
+ByteSwap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ByteSwap.cpp
+END
+DeflateDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/DeflateDecoder.h
+END
+ZDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/ZDecoder.cpp
+END
+BranchRegister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/BranchRegister.cpp
+END
+CodecExports.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/CodecExports.cpp
+END
+Bcj2Coder.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/Bcj2Coder.h
+END
+LzmaEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/LzmaEncoder.cpp
+END
+PpmdEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/PpmdEncoder.h
+END
+LzxDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Compress/LzxDecoder.h
+END

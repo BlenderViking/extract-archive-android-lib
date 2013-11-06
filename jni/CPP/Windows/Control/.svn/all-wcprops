@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/jni/CPP/Windows/Control
+END
+Window2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/Windows/Control/Window2.cpp
+END
+Edit.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/jni/CPP/Windows/Control/Edit.h
+END
+ListView.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/Windows/Control/ListView.h
+END
+Static.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/Windows/Control/Static.h
+END
+StatusBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/Windows/Control/StatusBar.h
+END
+ComboBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/Windows/Control/ComboBox.h
+END
+Window2.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/Windows/Control/Window2.h
+END
+ProgressBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/Windows/Control/ProgressBar.h
+END
+Dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/Windows/Control/Dialog.cpp
+END
+Controls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/Windows/Control/Controls.cpp
+END
+Dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/Windows/Control/Dialog.h
+END
+DialogImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/Windows/Control/DialogImpl.h
+END

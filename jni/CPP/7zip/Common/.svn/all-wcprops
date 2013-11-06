@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common
+END
+StreamBinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/StreamBinder.h
+END
+ProgressUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/ProgressUtils.cpp
+END
+LimitedStreams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/LimitedStreams.cpp
+END
+RegisterCodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/RegisterCodec.h
+END
+InBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/InBuffer.cpp
+END
+OutBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/OutBuffer.cpp
+END
+OffsetStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/OffsetStream.cpp
+END
+MethodId.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/MethodId.h
+END
+MethodProps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/MethodProps.cpp
+END
+StreamObjects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/StreamObjects.cpp
+END
+CWrappers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/CWrappers.cpp
+END
+FilterCoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/FilterCoder.h
+END
+ProgressMt.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/ProgressMt.h
+END
+MemBlocks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/MemBlocks.cpp
+END
+VirtThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/VirtThread.cpp
+END
+FileStreams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/FileStreams.cpp
+END
+StreamBinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/StreamBinder.cpp
+END
+StreamUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/StreamUtils.h
+END
+FilePathAutoRename.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/FilePathAutoRename.h
+END
+LockedStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/LockedStream.h
+END
+InOutTempBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/InOutTempBuffer.h
+END
+CreateCoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/CreateCoder.h
+END
+OutMemStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/OutMemStream.h
+END
+ProgressUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/ProgressUtils.h
+END
+LimitedStreams.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/LimitedStreams.h
+END
+MethodId.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/MethodId.cpp
+END
+FilterCoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/FilterCoder.cpp
+END
+ProgressMt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/ProgressMt.cpp
+END
+InBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/InBuffer.h
+END
+OutBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/OutBuffer.h
+END
+OffsetStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/OffsetStream.h
+END
+MethodProps.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/MethodProps.h
+END
+StreamObjects.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/StreamObjects.h
+END
+CWrappers.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/CWrappers.h
+END
+StreamUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/StreamUtils.cpp
+END
+FilePathAutoRename.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/FilePathAutoRename.cpp
+END
+LockedStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/LockedStream.cpp
+END
+InOutTempBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/InOutTempBuffer.cpp
+END
+RegisterArc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/RegisterArc.h
+END
+CreateCoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/CreateCoder.cpp
+END
+MemBlocks.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/MemBlocks.h
+END
+VirtThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/VirtThread.h
+END
+OutMemStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/OutMemStream.cpp
+END
+FileStreams.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/jni/CPP/7zip/Common/FileStreams.h
+END
