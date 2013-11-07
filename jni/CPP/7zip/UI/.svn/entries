@@ -1,55 +1,0 @@
-10
-
-dir
-38
-http://andro7z.googlecode.com/svn/trunk/jni/CPP/7zip/UI
-http://andro7z.googlecode.com/svn
-
-
-
-2011-08-14T09:27:53.938994Z
-34
-texnician
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2200ab56-e9d5-4d4c-0b78-50b4cf4d842f
-
-Client7z
-dir
-
-Explorer
-dir
-
-Console
-dir
-
-GUI
-dir
-
-Common
-dir
-
-P7ZIP
-dir
-
-FileManager
-dir
-
-ClientCodec
-dir
-
-Agent
-dir
-
