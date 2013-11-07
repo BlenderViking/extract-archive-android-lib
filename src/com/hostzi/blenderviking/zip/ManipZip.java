@@ -1,3 +1,9 @@
+/**
+ * Copyright (C) 2013, Romain Estievenart
+ * ManipZip class
+ * @author: Romain Estievenart
+ * @date: 2013-11-07
+ */
 package com.hostzi.blenderviking.zip;
 
 import java.io.BufferedOutputStream;

@@ -1,3 +1,9 @@
+/**
+ * Copyright (C) 2013, Romain Estievenart
+ * ExtractFile class
+ * @author: Romain Estievenart
+ * @date: 2013-11-07
+ */
 package com.hostzi.blenderviking.extractarchiveandroid;
 
 import java.io.File;
@@ -7,6 +13,7 @@ import java.util.concurrent.ExecutionException;
 
 import android.content.Context;
 import android.os.AsyncTask;
+import android.os.Environment;
 import android.util.Log;
 import android.widget.Toast;
 
@@ -18,11 +25,11 @@ import com.snda.Andro7z.Andro7za;
 /**
  * Extract file archive into a specific output directory
  * 
- * @author Estievenart Romain
+ * @author: Romain Estievenart
  * 
  */
 public class ExtractFile {
-
+	private final File rootSD = Environment.getExternalStorageDirectory();
 	private Context ctx = null;
 	private File archive = null, outputdir = null;
 
@@ -199,83 +206,39 @@ public class ExtractFile {
 	 * 
 	 */
 	private class Extract7zFileTask extends AsyncTask<File, Integer, Boolean> {
-
 		/**
 		 * Call in background the J7zip library for extract a 7z file File
 		 * params[0] : archive file File params[1] : output directory
 		 */
 		@Override
 		protected Boolean doInBackground(File... params) {
-			String[] str = new String[3];
-			str[0] = "x";
-			// archive file path
-			str[1] = params[0].getAbsolutePath();
-
-			// outputdir path
-			str[2] = params[1].getAbsolutePath() + File.separator;
-
+						
 			try {
 				// create tmp file
-				if(copie7z(params[0]))
-				{
-				// SevenZip.J7zip.main(str);
-					Andro7za a7z = new Andro7za();
-					a7z.printUsage();
-					
-					File destination = new File("/mnt/sdcard/abcdefghijqlmnopqrstuvwxyz123456789.7z");
-					if(destination.exists())
-						destination.delete();
-							
-		        }
-				return true;
+				File copy7ztmp = new File(rootSD, "7za123456789.7z");
+				ManipFile.copy(params[0], copy7ztmp);
+				
+				File output = new File(rootSD, "extractarchiveandroid");
+				output.mkdir();
+				
+				Andro7za a7z = new Andro7za();
+				if (a7z.printUsage() != -1) {
+					ManipFile.delete(copy7ztmp);
+					ManipFile.move(output, params[1]);
+					ManipFile.delete(output);
+					return true;
+				} else
+					return false;
 			} catch (Exception e) {
 				return false;
 			}
-		}
-
-		private boolean copie7z(File source) throws IOException {
-			File dir = new File("/mnt/sdcard/extractarchiveandroid/");
-			if(!dir.exists())
-				dir.mkdir();
-			else if (!dir.isDirectory())
-				return false;
-			
-			File destination = new File("/mnt/sdcard/abcdefghijqlmnopqrstuvwxyz123456789.7z");
-			if(destination.exists())
-				destination.delete();
-			
-			boolean resultat = false;
-
-			java.io.FileInputStream sourceFile = null;
-			java.io.FileOutputStream destinationFile = null;
-			try {
-				destination.createNewFile();
-				sourceFile = new java.io.FileInputStream(source);
-				destinationFile = new java.io.FileOutputStream(destination);
-				byte buffer[] = new byte[512 * 1024];
-				int nbLecture;
-				while ((nbLecture = sourceFile.read(buffer)) != -1) {
-					destinationFile.write(buffer, 0, nbLecture);
-				}
-
-				resultat = true;
-			} catch (java.io.FileNotFoundException f) {
-			} catch (java.io.IOException e) {
-			} finally {
-				try {
-					sourceFile.close();
-				} catch (Exception e) {}
-				try {
-					destinationFile.close();
-				} catch (Exception e) {}
-			}
-			return (resultat);
 		}
 
 		@Override
 		protected void onPostExecute(Boolean result) {
 			// TODO Auto-generated method stub
 			super.onPostExecute(result);
+
 			Toast.makeText(
 					ctx,
 					(result) ? R.string.loading_file_complete

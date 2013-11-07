@@ -23,11 +23,12 @@ public final class Andro7za {
      * <code>printUsage</code> print 7za usage.
      *
      */
-    public void printUsage()
+    public int printUsage()
     {
         Log.d(JNI_TAG, "Call a7za_print_usage()");
         int ret = a7za_print_usage();
         Log.d(JNI_TAG, "a7za_print_usage() return code " + ret);
+        return ret;
     }
     
     static {
