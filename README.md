@@ -21,6 +21,14 @@ try {
 <br>}
 </blockquote>
 
+<h3>Uses-permissions</h3>
+<blockquote>
+&lt;uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" /&gt;
+&lt;uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /&gt;
+&lt;uses-permission android:name="android.permission.READ_OWNER_DATA" /&gt;
+&lt;uses-permission android:name="android.permission.WRITE_OWNER_DATA" /&gt;
+&lt;uses-permission android:name="android.permission.CLEAR_APP_CACHE" /&gt;
+</blockquote>
 <h2>Links / References</h2>
 <ul>
 <li>andro7z  - <a href="https://code.google.com/p/andro7z/">https://code.google.com/p/andro7z/</a>
