@@ -212,23 +212,37 @@ public class ExtractFile {
 		 */
 		@Override
 		protected Boolean doInBackground(File... params) {
-						
+
 			try {
 				// create tmp file
 				File copy7ztmp = new File(rootSD, "7za123456789.7z");
-				ManipFile.copy(params[0], copy7ztmp);
-				
 				File output = new File(rootSD, "extractarchiveandroid");
+				ManipFile.copy(params[0], copy7ztmp);
 				output.mkdir();
-				
+
 				Andro7za a7z = new Andro7za();
-				if (a7z.printUsage() != -1) {
+				 
+				switch (a7z.printUsage()) {
+				case 0: // Successful operation
+				case 1: // Non fatal error(s) occured
 					ManipFile.delete(copy7ztmp);
 					ManipFile.move(output, params[1]);
 					ManipFile.delete(output);
 					return true;
-				} else
+				case 2: // fatal error occured
+					ManipFile.delete(copy7ztmp);
+					ManipFile.move(output, params[1]);
+					ManipFile.delete(output);
+					System.err.println(ctx.getString(R.string.loading_file_error));
 					return false;
+				case 8: // Not enough memory for operation
+					ManipFile.delete(copy7ztmp);
+					ManipFile.move(output, params[1]);
+					ManipFile.delete(output);
+					System.err.println(ctx.getString(R.string.not_enough_memory_for_operation));
+				default:
+					return false;
+				}
 			} catch (Exception e) {
 				return false;
 			}

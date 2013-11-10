@@ -6,5 +6,6 @@
     <string name="is_directory">File is a directory !</string>
     <string name="loading_file_complete">Loading file complete !</string>
     <string name="loading_file_error">Error on loading file, please use a compatible format !</string>
+    <string name="not_enough_memory_for_operation">Not enough memory for operation !</string>
 
 </resources>

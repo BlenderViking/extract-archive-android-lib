@@ -82,8 +82,6 @@ public class ManipFile {
 			moveFile(input, output);
 		else if (input.isDirectory())
 			moveDirectory(input, output);
-		else
-			System.out.println(input.toString()+ " n'existe pas !");
 	}
 
 	private static void copyDirectory(File input, File output) {
@@ -148,8 +146,6 @@ public class ManipFile {
 			copyFile(input, output);
 		else if (input.isDirectory())
 			copyDirectory(input, output);
-		else
-			System.out.println(input.toString()+" n'existe pas !");
 	}
 	
 	public static void copy(String input, String output) {
@@ -165,12 +161,10 @@ public class ManipFile {
 			delete(f);
 		}
 
-		System.out.println("delete : "+	directory.getAbsolutePath());
 		return directory.delete();
 	}
 
 	private static boolean deleteFile(File file) {
-		System.out.println("delete : "+	file.getAbsolutePath());
 		return file.delete();
 	}
 
