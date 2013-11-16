@@ -9,12 +9,9 @@ package com.hostzi.blenderviking.extractarchiveandroid;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.concurrent.ExecutionException;
 
 import android.content.Context;
 import android.os.AsyncTask;
-import android.os.Environment;
-import android.util.Log;
 import android.widget.Toast;
 
 import com.github.junrar.testutil.ExtractArchive;
@@ -29,7 +26,6 @@ import com.snda.Andro7z.Andro7za;
  * 
  */
 public class ExtractFile {
-	private final File rootSD = Environment.getExternalStorageDirectory();
 	private Context ctx = null;
 	private File archive = null, outputdir = null;
 
@@ -85,7 +81,6 @@ public class ExtractFile {
 	 * @throws IOException
 	 */
 	public void exec() throws IOException {
-		String TAG = getClass().getSimpleName();
 		AsyncTask<File, Integer, Boolean> task = null;
 
 		if (archive.getName().matches("(?i)(.*?(.zip|cbz))"))
@@ -98,18 +93,10 @@ public class ExtractFile {
 			throw new IOException("loading_file_error");
 
 		if (!outputdir.exists())
-			outputdir.mkdir();
+			outputdir.mkdirs();
 
-		if (task != null) {
-			try {
-				task.execute(archive, outputdir);
-				task.get();
-			} catch (InterruptedException e) {
-				Log.e(TAG, e.getMessage());
-			} catch (ExecutionException e) {
-				Log.e(TAG, e.getMessage());
-			}
-		}
+		if (task != null)
+			task.execute(archive, outputdir);
 	}
 
 	/**
@@ -214,32 +201,23 @@ public class ExtractFile {
 		protected Boolean doInBackground(File... params) {
 
 			try {
-				// create tmp file
-				File copy7ztmp = new File(rootSD, "7za123456789.7z");
-				File output = new File(rootSD, "extractarchiveandroid");
-				ManipFile.copy(params[0], copy7ztmp);
-				output.mkdir();
+				File archive7z = params[0];
+				File outputDir = params[1];
 
 				Andro7za a7z = new Andro7za();
-				 
-				switch (a7z.printUsage()) {
+
+				switch (a7z.printUsage(archive7z, outputDir)) {
 				case 0: // Successful operation
 				case 1: // Non fatal error(s) occured
-					ManipFile.delete(copy7ztmp);
-					ManipFile.move(output, params[1]);
-					ManipFile.delete(output);
 					return true;
 				case 2: // fatal error occured
-					ManipFile.delete(copy7ztmp);
-					ManipFile.move(output, params[1]);
-					ManipFile.delete(output);
-					System.err.println(ctx.getString(R.string.loading_file_error));
+					System.err.println(ctx
+							.getString(R.string.loading_file_error));
 					return false;
 				case 8: // Not enough memory for operation
-					ManipFile.delete(copy7ztmp);
-					ManipFile.move(output, params[1]);
-					ManipFile.delete(output);
-					System.err.println(ctx.getString(R.string.not_enough_memory_for_operation));
+					System.err
+							.println(ctx
+									.getString(R.string.not_enough_memory_for_operation));
 				default:
 					return false;
 				}

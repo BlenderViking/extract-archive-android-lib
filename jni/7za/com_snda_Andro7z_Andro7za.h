@@ -12,7 +12,7 @@ extern "C" {
  * Method:    a7za_print_usage
  * Signature: ()I
  */
-JNIEXPORT jint JNICALL Java_com_snda_Andro7z_Andro7za_a7za_1print_1usage(JNIEnv *, jobject);
+JNIEXPORT jint JNICALL Java_com_snda_Andro7z_Andro7za_a7za_1print_1usage(JNIEnv *env, jobject obj, jstring _pathArchive, jstring _pathToExtract);
 
 #ifdef __cplusplus
 }
