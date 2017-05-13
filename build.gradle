@@ -1,4 +1,6 @@
-apply plugin: 'com.android.library'
+apply plugin: 'maven'
+
+group = 'com.github.BlenderViking'
 
 android {
     compileSdkVersion 8
